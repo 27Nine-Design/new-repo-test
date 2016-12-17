@@ -5,6 +5,6 @@ User-agent: *
 Disallow:
 <<<<<<< HEAD
 
-because it does not make sense and is not necesary
+well excuse me for trying to learn how to use git
 =======
 >>>>>>> 9ec7e8e7131812a6927d0693e3303ed0017df4ec

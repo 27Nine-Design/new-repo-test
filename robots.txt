@@ -5,10 +5,6 @@ User-agent: *
 Disallow:
 <<<<<<< HEAD
 
-Line.....
-
-what is going on here
-
-why did you remove my code?
+because it does not make sense and is not necesary
 =======
 >>>>>>> 9ec7e8e7131812a6927d0693e3303ed0017df4ec
